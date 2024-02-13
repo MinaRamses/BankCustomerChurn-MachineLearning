@@ -1,4 +1,4 @@
-# BankCustomerChurn-MachineLearning
+# Bank Customer Churn Prediction - MachineLearning
 It is the dataset of a U.S. bank customer for getting the information that , this particular customer will leave bank or not. 
 The success of any statistical analysis heavily relies on the quality and suitability of the underlying data. In the context of our case study concerning customer churn at a prominent U.S. bank, the dataset serves as a critical foundation for statistical analysis aimed at addressing this business challenge. This report outlines the meticulous procedures undertaken to prepare the data using Python, encompassing a series of steps including data cleaning, transformation, and integration. These steps ensure that the dataset is meticulously curated and optimized for subsequent analysis.
 ##
